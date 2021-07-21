@@ -1,0 +1,18 @@
+Git & GitHub---
+	Git is a free & open source distributed version controlling system
+	GitHub -- UI representation of repository hosted on remote server
+	Repository -- is a collection of all the files and folders which are logically grouped
+	Distributed -- Local <-Stagin Area->commit to local -->> push to Remote
+Commands involved with Git/GitHub -- 
+	Git Init -- used only when we are creating a new repository, a normal directory/folder will be converted to git repository, a hidden directory/folder named .git will be created
+	Git status -- gives information about which branch we are, commits, untracked files
+	Git add -- will get the files/folders to the staging area
+	Git commit -- will commit the changes to local from staging
+	git branch 
+	Git push
+	Git pull
+	Git remote
+	Git merge
+
+	.md -- markdown file
+	git commit -m "commiting files"
