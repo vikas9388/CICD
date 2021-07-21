@@ -13,6 +13,6 @@ Commands involved with Git/GitHub --
 	Git pull
 	Git remote
 	Git merge
-
+hello how are you?
 	.md -- markdown file
 	git commit -m "commiting files"
